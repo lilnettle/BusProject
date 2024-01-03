@@ -1,0 +1,9 @@
+{
+  "Database": {
+    "Type": "MSSQL",
+    "ConnectionStrings": {
+      "MSSQL": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Bus.db;Integrated Security=True;",
+      "SaplLite": "Data Sourse = c: \\ Bus.db"
+    }
+  }
+}

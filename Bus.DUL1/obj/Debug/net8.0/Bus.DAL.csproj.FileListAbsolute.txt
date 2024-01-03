@@ -1,0 +1,14 @@
+D:\проги\BusManager\Bus.DUL1\bin\Debug\net8.0\Bus.DAL.deps.json
+D:\проги\BusManager\Bus.DUL1\bin\Debug\net8.0\Bus.DAL.dll
+D:\проги\BusManager\Bus.DUL1\bin\Debug\net8.0\Bus.DAL.pdb
+D:\проги\BusManager\Bus.DUL1\obj\Debug\net8.0\Bus.DAL.csproj.AssemblyReference.cache
+D:\проги\BusManager\Bus.DUL1\obj\Debug\net8.0\Bus.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\проги\BusManager\Bus.DUL1\obj\Debug\net8.0\Bus.DAL.AssemblyInfoInputs.cache
+D:\проги\BusManager\Bus.DUL1\obj\Debug\net8.0\Bus.DAL.AssemblyInfo.cs
+D:\проги\BusManager\Bus.DUL1\obj\Debug\net8.0\Bus.DAL.csproj.CoreCompileInputs.cache
+D:\проги\BusManager\Bus.DUL1\obj\Debug\net8.0\Bus.DAL.dll
+D:\проги\BusManager\Bus.DUL1\obj\Debug\net8.0\refint\Bus.DAL.dll
+D:\проги\BusManager\Bus.DUL1\obj\Debug\net8.0\Bus.DAL.pdb
+D:\проги\BusManager\Bus.DUL1\obj\Debug\net8.0\ref\Bus.DAL.dll
+D:\проги\BusManager\Bus.DUL1\bin\Debug\net8.0\Bus.DAL.runtimeconfig.json
+D:\проги\BusManager\Bus.DUL1\obj\Debug\net8.0\Bus.DAL.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+D:\проги\ClientBus\Tests\bin\Debug\Tests.exe.config
+D:\проги\ClientBus\Tests\bin\Debug\Tests.exe
+D:\проги\ClientBus\Tests\bin\Debug\Tests.pdb
+D:\проги\ClientBus\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+D:\проги\ClientBus\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+D:\проги\ClientBus\Tests\obj\Debug\Tests.exe
+D:\проги\ClientBus\Tests\obj\Debug\Tests.pdb
+D:\проги\BusManager\Tests\bin\Debug\Tests.exe.config
+D:\проги\BusManager\Tests\bin\Debug\Tests.exe
+D:\проги\BusManager\Tests\bin\Debug\Tests.pdb
+D:\проги\BusManager\Tests\bin\Debug\Newtonsoft.Json.dll
+D:\проги\BusManager\Tests\bin\Debug\Newtonsoft.Json.xml
+D:\проги\BusManager\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+D:\проги\BusManager\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+D:\проги\BusManager\Tests\obj\Debug\Tests.csproj.CopyComplete
+D:\проги\BusManager\Tests\obj\Debug\Tests.exe
+D:\проги\BusManager\Tests\obj\Debug\Tests.pdb
